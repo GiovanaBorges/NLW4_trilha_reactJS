@@ -5,6 +5,11 @@ o projeto consiste basicamente na técnica pomodoro , pórem neste caso é aplic
 se exercitarem . a cada desafio cumprido pelo usuário , este ganha xp e sobe de nível . sendo o seu nível salvo nos cookies do browser.
 
 
+# Deploy site
+
+[Dê uma olhada](https://moveit-ten-kappa.vercel.app)
+
+
 ## case 1 Failed
 > Caso o usuário click em Falhei , o tempo reseta e ele não adquire experiência
 >
