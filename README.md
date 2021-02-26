@@ -14,7 +14,7 @@ se exercitarem . a cada desafio cumprido pelo usuário , este ganha xp e sobe de
 
 ## case 2 Succeeded
 
-> caso o usuário click em Completei , ele ganha experiência ,é adicionado mais 1 ao contador de desafios concluídos e talvez consiga subir de nível. 
-> 
+> caso o usuário click em Completei , ele ganha experiência ,é adicionado mais 1 ao contador de desafios concluídos e talvez consiga subir de nível.  
 
-![img2](https://j.gifs.com/OMOA5Y.gif)
+
+![img2](https://j.gifs.com/xnPJVB.gif)
